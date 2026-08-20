@@ -4,8 +4,7 @@
 
 **1. INTRODUCTION:**
 
-Multi-Factor Authentication (MFA) is a security method where the user has to provide two or more authentication factors before getting access. This makes the account more secure than using only a password.
-The three main authentication factors are something you know, something you have, and something you are. There are different MFA methods available, and each one has its own level of security, advantages, limitations and uses. In this portfolio, different MFA methods are compared based on these factors.
+Multi-Factor Authentication (MFA) is a security method where the user has to provide two or more authentication factors before getting access. This makes the account more secure than using only a password.There are three main authentication factors - something you know, something you have, and something you are. There are different MFA methods available and each one has its own level of security, advantages, limitations and applications. In this portfolio, different MFA methods are compared based on these factors.
 
 **2. OBJECTIVES:**
 
@@ -25,11 +24,11 @@ The three main authentication factors are something you know, something you have
 
 **Working:**
 
-In this method the user enters their username and password. Then, a one-time password (OTP) is sent to their registered mobile number. The user enters this OTP to complete the login.
+In this method the user enters their username and password. Then, a one-time password (OTP) is sent to their registered mobile number and the user enters this OTP to complete their login process.
 
 **Advantages:**
 
-•	Easy to use. 
+•	It is easy to use. 
 
 •	Simple to set up. 
 
@@ -51,11 +50,11 @@ Online banking, e-commerce websites and other web services.
 
 **Working:**
 
-After entering the login details, a verification code is sent to the user's registered email address. The user enters the code to verify the login.
+It is similar to SMS-Based OTP but here after entering the login details, a verification code is sent to the user's registered email address. Then user enters the code to verify the login process.
 
 **Advantages:**
 
-•	Easy to implement.
+•	It is easy to implement.
 
 •	Does not require any extra hardware. 
 
@@ -76,7 +75,7 @@ Web applications, educational portals and account verification.
 
 **Working:**
 
-An authenticator app generates a temporary code based on time. The code changes after a short period, and the user enters the current code while logging in.
+An authenticator app generates a temporary code based on time. The code changes after a short period and the user should enter the current code while logging in.
 
 **Advantages:**
 
