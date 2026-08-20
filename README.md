@@ -257,11 +257,11 @@ Banking, cloud services, enterprise systems and password less login.
 
 </table>
 
-From this comparison, SMS and Email OTP are easier to use but have lower security. Authenticator apps give a good balance between security and convenience. Hardware tokens and FIDO2/passkeys are better choices when stronger security is needed.
+From this comparison, SMS and Email OTP are easier to use but have lower security. Authenticator apps give a good balance between security and convenience.When stronger security is needed hardware tokens and FIDO2/passkeys are better choices.
 
 **5. FINDINGS:**
    
-The comparison shows that every MFA method has its own strengths and weaknesses. SMS and Email OTP are simple, authenticator apps provide better security, and hardware tokens give strong protection. Biometrics are convenient, while FIDO2 and passkeys provide strong protection against phishing.
+The comparison shows that every MFA method has its own strengths and weaknesses. SMS and Email OTP are simple, authenticator apps provide better security, and hardware tokens give strong protection.Whereas Biometrics are convenient, while FIDO2 and passkeys provide strong protection against phishing.
 
 **6.TESTING AND EVIDENCE:**
 
@@ -269,7 +269,6 @@ The comparison shows that every MFA method has its own strengths and weaknesses.
 
 **Figure 2:** Biometric Authentication
 
-**Figure 3:** Passkey Authentication
 
 **7. REFLECTION:**
 
@@ -288,9 +287,6 @@ SMS and Email OTP are simple options, while FIDO2, passkeys and hardware tokens 
 
 3.World Wide Web Consortium. (2021). Web Authentication: An API for accessing public key credentials—Level 2. W3C.
 
-4.World Wide Web Consortium. (2026). Web Authentication: An API for accessing public key credentials—Level 3. W3C.
-
-5.Grassi, P. A., Perlner, R., Newton, E. M., et al. (2017). Digital identity guidelines: Authentication and lifecycle management. NIST.
 
 
 
